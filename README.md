@@ -1,0 +1,2 @@
+# HTML-CSS-JS-Project-ALL-SMIT
+HTML CSS AND JS projects SMIT
